@@ -28,7 +28,7 @@ Blockchains, QR codes, static HTML, filesystems, IPFS, ordinary paper, shell too
 - **[Mogwai](https://github.com/johnrigler/mogwai)** — a user-controlled frame for resolving and navigating media, records, and identity.
 - **[Dark Star](https://github.com/johnrigler/darkStar)** — an executable printed publication that treats paper as boot media.
 - **[SB Shell](https://github.com/johnrigler/sbshell)** — a revived filesystem-as-publishing system where files remain the source of truth.
-- **[Lantern / Zarkmid](https://github.com/johnrigler/zarkmid)** — an older interactive-fiction experiment being revived around portable saves, shared state, and ledger-backed persistence.
+- **[Lantern](https://github.com/johnrigler/lantern)** — an older interactive-fiction experiment being revived around portable saves, shared state, and ledger-backed persistence.
 - **CertLedger** — an active private working project exploring cryptographic document identity, QR-labeled paper records, reproducible provenance, and public-ledger references for evidence preservation.
 
 ## Why older projects are moving again
